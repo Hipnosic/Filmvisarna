@@ -1,4 +1,4 @@
-#Projektarbete: Filmvisarna
+# Projektarbete: Filmvisarna
 star_outline
 unfold_more
 Företaget Filmvisarna AB är en liten biografkedja som vill börja konkurrera lokalt med SF. De har ett par biografsalonger i Småstad och har säkrat rättigheter att visa ett antal olika filmtitlar.
@@ -18,7 +18,7 @@ Observera! Pensionärer och barn (under 12 år) har lägre biljettpris. Normalt 
 
 Salongernas stolar är numrerade från höger till vänster, framifrån och bakåt. (Stolen längst fram till höger har nummer 1. Om salongen har 100 stolar har den längst bak till vänster nummer 100.)
 
-#Produktägarens backlog
+# Produktägarens backlog
 Dessa user stories (22 stycken för närvarande, vid starten av projektet) kommer ifrån produktägaren. Inför en sprint kan dessa prioriteras om, nya user stories kan tillkomma, gamla kan utgå eller förändras. Ni i utvecklingsteamet kan föreslå user stories ni tycker saknas till produktägaren! Men produktägaren bestämmer vilka user stories som ska tas upp inför en sprint, och i vilken ordning de ska prioriteras.
 
 - Som produktägare vill jag få se och godkänna wireframes av webbplatsen med dess olika vyer/sidor, headers, footers och menysystem, helst innan ni börjar göra en mer grafisk skiss/mockup, så att jag kan avgöra om jag tycker grunduppdelning i vyer etc. fungerar.
@@ -47,15 +47,15 @@ Pensionär: 80kr
 - Som svensktalande besökare (biografens primära målgrupp) vill jag att all information är på svenska och att tal och priser är formaterade enligt svensk standard, så att jag slipper bli förvirrad.
 - Som systemägare och besökare vill jag att webbplatsen är responsiv och välfungerande på alla vanligt förekommande enheter så att den är så åtkomlig som möjligt.
 
-#Versionshantering
+# Versionshantering
 - Inom varje sprint bör ni arbeta med olika featurebranches för olika områden.
 
-#Betygskriterier för inlämningsuppgiften “Filmvisarna”
+# Betygskriterier för inlämningsuppgiften “Filmvisarna”
 Krav och bedömning
 
 Arbetet ska ske i grupp med agil metodik. Ni ska särskilt iakta följande:
 
-#Agila moment
+# Agila moment
 - Ni ska endast planera tasks för en Sprint i taget.
 - Ni ska löpande ha möten med produktägaren.
 - Ni ska använda er av poker-planning och dess poäng.
@@ -65,12 +65,12 @@ Arbetet ska ske i grupp med agil metodik. Ni ska särskilt iakta följande:
 - Ni ska avsluta era Sprinter med retrospektiv-möte.
 - Ni ska leverera en färdig delmängd till produktägaren vid slutet av varje Sprint.
 
-#Inför sprinten
+# Inför sprinten
 - Ert arbete ska stämmas av och prioriteras tillsammans med Produktägaren inför era Sprinter.
 - Ni ska stämma av ert arbete med läraren, inför en Sprint eller oftare, och då få möjlighet till feedback, som ligger till grund för bedömningen.
 
-#Betygskriterier
-##FÖR GODKÄNT:
+# Betygskriterier
+## FÖR GODKÄNT:
 - Ni ska ha arbetat enligt de fokusområden per sprint som lektionsplanen specificerar!
 - Ni ska ha arbetat agilt i grupp enligt kraven ovan under “Agila Moment”.
 - Ni ska ha levererat en fungerande webbapplikation enligt de User Stories ni fått.
@@ -80,7 +80,7 @@ Arbetet ska ske i grupp med agil metodik. Ni ska särskilt iakta följande:
 - Ni ska kontinuerligt ha checkat in er kod på git.
 - Utöver bedömningen för gruppen som helhet, behöver det för varje gruppmedlem framgå att denne uppfyllt kraven för Godkänt. Detta innebär att varje gruppmedlem bör ha checkat in relevant arbete under sitt namn, i git.
 
-##FÖR VÄL GODKÄNT:
+## FÖR VÄL GODKÄNT:
 - Utöver ovanstående krav för Godkänt:
 
 - Funktionalitet och användargränssnitt ska vara tydligt och lätt att förstå.
